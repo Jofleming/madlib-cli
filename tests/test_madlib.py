@@ -1,4 +1,5 @@
 import pytest
+
 from madlib_cli.madlib import read_template, parse_template, merge
 
 
